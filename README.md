@@ -3,7 +3,7 @@ Python Calculator with Tkinter
 This simple calculator was created using Python and the Tkinter library. It includes basic mathematical functions, as well as the ability to calculate square roots, sines, cosines, and tangents.
 
 ## Technology
-* <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="90" alt="Python Logo">Python: Version 3.11.1
+<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="90" alt="Python Logo"> Version 3.11.1
 ## Usage
 To use this calculator, simply open the main.py file in your Python interpreter. You should see a calculator window pop up, which will allow you to enter calculations using Polish notation.
 
