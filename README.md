@@ -1,5 +1,4 @@
 # Scientific-Calculator
-Python Calculator with Tkinter
 This simple calculator was created using Python and the Tkinter library. It includes basic mathematical functions, as well as the ability to calculate square roots, sines, cosines, and tangents.
 
 ## Technology
